@@ -1,6 +1,5 @@
  let string = str.toLowerCase();
- let high = str.length-1;
-let low = 0;
+ let len = str.length;
 
     // loop through half of the string
     for (let i = 0; i < len / 2; i++) {
