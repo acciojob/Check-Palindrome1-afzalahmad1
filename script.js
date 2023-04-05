@@ -1,5 +1,5 @@
- let string = str.toLowerCase();
- let len = str.length;
+ const string = str.toLowerCase();
+ const len = str.length;
 
     // loop through half of the string
     for (let i = 0; i < len / 2; i++) {
